@@ -10,10 +10,12 @@
 
 
 2. Playlist Page :
+   
 ![WhatsApp Image 2025-05-22 at 21 17 23_adc9764f](https://github.com/user-attachments/assets/f41502f1-6475-422f-9ab2-c20358cf5513)
 
 
 3. Playlist Detail Page :
+   
 ![WhatsApp Image 2025-05-22 at 21 17 23_a2e487d7](https://github.com/user-attachments/assets/c681fb07-48fe-4d07-8307-e650b590cf3c)
 
 ![WhatsApp Image 2025-05-22 at 21 17 25_8d09aba5](https://github.com/user-attachments/assets/9183ddc4-92ef-40d8-857e-487755106adb)
